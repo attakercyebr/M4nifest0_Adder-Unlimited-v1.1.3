@@ -31,9 +31,9 @@
 
 📌 Version 2 Alpha 
 
-#####  Update For V1.0.0 To V 1.1.2
+#####  Update For V1.0.0 To V 1.1.2 To V 1.1.3
 ----------------------
-📌 Version M4nifest0_Adder-Unlimited v1.1.2
+📌 Version M4nifest0_Adder-Unlimited v1.1.3
 
 
 # Disclaimer:
