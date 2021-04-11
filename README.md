@@ -45,8 +45,8 @@
 # See how it works v1.0.0
 ----------------------
 - 🔞 v1.1.1 http://shorturl.at/wGVX4
-- 🔞 V1.2.2 shorturl.at/avBG9
-- 🔞 V1.2.3 shorturl.at/avBG9
+- 🔞 V1.2.2 http://shorturl.at/avBG9
+- 🔞 V1.2.3 http://shorturl.at/avBG9
 
 # How to ger:
 ----------------------
