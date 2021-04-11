@@ -5,6 +5,8 @@
 
 ##### Program Features
 ----------------------
+📌 Older version of this app [M4nifest0_Adder_Unlimited-Update-V1.1.2](https://github.com/attakercyebr/M4nifest0_Adder_Unlimited-V1.1.2).
+
 📌 Coding with Python 3.9+
 
 📌 Active meetings.
@@ -29,7 +31,7 @@
 
 📌 It is better to run on the server.
 
-📌 Version 1 beta.
+📌 Version 2 Alpha 
 
 #####  Update For V1.0.0 To V 1.1.2
 ----------------------
@@ -42,8 +44,9 @@
 
 # See how it works v1.0.0
 ----------------------
-- 🔞 http://shorturl.at/wGVX4
-- 🔞 V1.2.2  shorturl.at/avBG9
+- 🔞 v1.1.1 http://shorturl.at/wGVX4
+- 🔞 V1.2.2 shorturl.at/avBG9
+- 🔞 V1.2.3 shorturl.at/avBG9
 
 # How to ger:
 ----------------------
