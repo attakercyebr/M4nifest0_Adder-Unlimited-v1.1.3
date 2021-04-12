@@ -44,7 +44,7 @@
 ----------------------
 - 🔞 v1.1.1 http://shorturl.at/wGVX4
 - 🔞 V1.2.2 http://shorturl.at/avBG9
-- 🔞 V1.2.3 http://shorturl.at/avBG9
+- 🔞 V1.2.3 https://youtu.be/bU3tBS46Ivc
 
 # How to ger:
 ----------------------
